@@ -16,7 +16,7 @@ int main(){
         {
             mt[i][j]=1+rand()%100;
             printf("%d", mt[i][j]);
-            printf("--");
+            printf("  ");
         }
     printf("\n");
     }
