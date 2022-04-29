@@ -1,0 +1,5 @@
+Por mas que este posicionado en el main, puedo ver el archivo t2_1_2.c, debido a que me va guardado lo que estoy trabajando en la rama creada, mas alla de que aun no la sume a la linea maestro.
+
+Ya posicionado en la linea Main, creo un archivo y realizo su correspondiente commit. Ante esto, noto que se crea una actualizacion en la linea main, sin tener en cuenta lo que se hizo en la rama anteriormente creada.
+
+Luego de realizar el comando Merge, cominamos amas ramas, la main con la creada. Luego de esto, notamos que el archivo creado en la rama, ya me figura tambien en la rama del main.
